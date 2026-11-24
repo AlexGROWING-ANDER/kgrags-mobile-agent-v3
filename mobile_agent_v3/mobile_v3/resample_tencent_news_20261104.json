@@ -1,0 +1,10 @@
+{
+  "test_3": {
+    "intention": "调整字号为最大后，查看一篇新闻并调整字号为标准",
+    "sub_intention_history": []
+  },
+  "test_4": {
+    "intention": "关注两个为我推荐的作者，并查看他们最近发布的两篇文章",
+    "sub_intention_history": []
+  }
+}

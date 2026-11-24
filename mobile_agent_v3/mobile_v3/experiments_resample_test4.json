@@ -1,0 +1,16 @@
+{
+  "model": {
+    "api_key": "",
+    "endpoint": "https://api.openlux.ai/v1",
+    "model_name": "gpt-5.6-sol"
+  },
+  "apps": {
+    "all": [
+      {
+        "app_package": "com.tencent.news",
+        "app_name": "腾讯新闻",
+        "intent_json": "D:\\Codex\\2026-09-19\\new-chat\\mobile_agent_v3\\mobile_v3\\resample_tencent_news_test4.json"
+      }
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "model": {
+    "api_key": "",
+    "endpoint": "https://api.openlux.ai/v1",
+    "model_name": "gpt-5.5-pro"
+  },
+  "apps": {
+    "all": [
+      {
+        "app_package": "com.baidu.baidutranslate",
+        "app_name": "百度翻译",
+        "intent_json": "C:/Users/ASUS/Documents/Codex/2026-09-19/new-chat/mobile_agent_v3/mobile_v3/precheck_test_1_intent.json"
+      }
+    ]
+  }
+}

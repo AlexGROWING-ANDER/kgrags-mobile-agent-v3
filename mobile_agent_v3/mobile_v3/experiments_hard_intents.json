@@ -1,0 +1,196 @@
+{
+  "model": {
+    "api_key": "",
+    "endpoint": "https://api.openlux.ai/v1",
+    "model_name": "gpt-5.6-sol"
+  },
+  "apps": {
+    "all": [
+      {
+        "app_package": "com.tencent.qqmusic",
+        "app_name": "qq音乐",
+        "intent_json": "E:/GUI_AGENT架构归因/hard_intents/com.tencent.qqmusic.json"
+      },
+      {
+        "app_package": "com.netease.cloudmusic",
+        "app_name": "网易云音乐",
+        "intent_json": "E:/GUI_AGENT架构归因/hard_intents/com.netease.cloudmusic.json"
+      },
+      {
+        "app_package": "com.kugou.android",
+        "app_name": "酷狗音乐",
+        "intent_json": "E:/GUI_AGENT架构归因/hard_intents/com.kugou.android.json"
+      },
+      {
+        "app_package": "com.duowan.kiwi",
+        "app_name": "虎牙",
+        "intent_json": "E:/GUI_AGENT架构归因/hard_intents/com.duowan.kiwi.json"
+      },
+      {
+        "app_package": "air.tv.douyu.android",
+        "app_name": "斗鱼",
+        "intent_json": "E:/GUI_AGENT架构归因/hard_intents/air.tv.douyu.android.json"
+      },
+      {
+        "app_package": "com.zhihu.android",
+        "app_name": "知乎",
+        "intent_json": "E:/GUI_AGENT架构归因/hard_intents/com.zhihu.android.json"
+      },
+      {
+        "app_package": "com.sina.weibo",
+        "app_name": "微博",
+        "intent_json": "E:/GUI_AGENT架构归因/hard_intents/com.sina.weibo.json"
+      },
+      {
+        "app_package": "com.ss.android.article.news",
+        "app_name": "今日头条",
+        "intent_json": "E:/GUI_AGENT架构归因/hard_intents/com.ss.android.article.news.json"
+      },
+      {
+        "app_package": "com.tencent.news",
+        "app_name": "腾讯新闻",
+        "intent_json": "E:/GUI_AGENT架构归因/hard_intents/com.tencent.news.json"
+      },
+      {
+        "app_package": "com.hupu.games",
+        "app_name": "虎扑",
+        "intent_json": "E:/GUI_AGENT架构归因/hard_intents/com.hupu.games.json"
+      },
+      {
+        "app_package": "com.tencent.qqsports",
+        "app_name": "腾讯体育",
+        "intent_json": "E:/GUI_AGENT架构归因/hard_intents/com.tencent.qqsports.json"
+      },
+      {
+        "app_package": "com.lianjia.beike",
+        "app_name": "贝壳",
+        "intent_json": "E:/GUI_AGENT架构归因/hard_intents/com.lianjia.beike.json"
+      },
+      {
+        "app_package": "com.homelink.android",
+        "app_name": "链家",
+        "intent_json": "E:/GUI_AGENT架构归因/hard_intents/com.homelink.android.json"
+      },
+      {
+        "app_package": "com.baidu.BaiduMap",
+        "app_name": "百度地图",
+        "intent_json": "E:/GUI_AGENT架构归因/hard_intents/com.baidu.BaiduMap.json"
+      },
+      {
+        "app_package": "com.autonavi.minimap",
+        "app_name": "高德地图",
+        "intent_json": "E:/GUI_AGENT架构归因/hard_intents/com.autonavi.minimap.json"
+      },
+      {
+        "app_package": "com.tencent.androidqqmail",
+        "app_name": "qq邮箱",
+        "intent_json": "E:/GUI_AGENT架构归因/hard_intents/com.tencent.androidqqmail.json"
+      },
+      {
+        "app_package": "com.corp21cn.mail189",
+        "app_name": "189邮箱",
+        "intent_json": "E:/GUI_AGENT架构归因/hard_intents/com.corp21cn.mail189.json"
+      },
+      {
+        "app_package": "me.ele",
+        "app_name": "饿了么",
+        "intent_json": "E:/GUI_AGENT架构归因/hard_intents/me.ele.json"
+      },
+      {
+        "app_package": "com.pupumall.customer",
+        "app_name": "朴朴超市",
+        "intent_json": "E:/GUI_AGENT架构归因/hard_intents/com.pupumall.customer.json"
+      },
+      {
+        "app_package": "com.wudaokou.hippo",
+        "app_name": "盒马",
+        "intent_json": "E:/GUI_AGENT架构归因/hard_intents/com.wudaokou.hippo.json"
+      },
+      {
+        "app_package": "com.baidu.searchbox",
+        "app_name": "百度浏览器",
+        "intent_json": "E:/GUI_AGENT架构归因/hard_intents/com.baidu.searchbox.json"
+      },
+      {
+        "app_package": "com.tencent.mtt",
+        "app_name": "qq浏览器",
+        "intent_json": "E:/GUI_AGENT架构归因/hard_intents/com.tencent.mtt.json"
+      },
+      {
+        "app_package": "com.youdao.dict",
+        "app_name": "有道词典",
+        "intent_json": "E:/GUI_AGENT架构归因/hard_intents/com.youdao.dict.json"
+      },
+      {
+        "app_package": "com.baidu.baidutranslate",
+        "app_name": "百度翻译",
+        "intent_json": "E:/GUI_AGENT架构归因/hard_intents/com.baidu.baidutranslate.json"
+      },
+      {
+        "app_package": "com.dp.android.elong",
+        "app_name": "艺龙旅行",
+        "intent_json": "E:/GUI_AGENT架构归因/hard_intents/com.dp.android.elong.json"
+      },
+      {
+        "app_package": "ctrip.android.view",
+        "app_name": "携程旅行",
+        "intent_json": "E:/GUI_AGENT架构归因/hard_intents/ctrip.android.view.json"
+      },
+      {
+        "app_package": "com.yipiao",
+        "app_name": "智行火车票",
+        "intent_json": "E:/GUI_AGENT架构归因/hard_intents/com.yipiao.json"
+      },
+      {
+        "app_package": "com.MobileTicket",
+        "app_name": "12306",
+        "intent_json": "E:/GUI_AGENT架构归因/hard_intents/com.MobileTicket.json"
+      },
+      {
+        "app_package": "com.xingin.xhs",
+        "app_name": "小红书",
+        "intent_json": "E:/GUI_AGENT架构归因/hard_intents/com.xingin.xhs.json"
+      },
+      {
+        "app_package": "com.taobao.taobao",
+        "app_name": "淘宝",
+        "intent_json": "E:/GUI_AGENT架构归因/hard_intents/com.taobao.taobao.json"
+      },
+      {
+        "app_package": "com.jingdong.app.mall",
+        "app_name": "京东",
+        "intent_json": "E:/GUI_AGENT架构归因/hard_intents/com.jingdong.app.mall.json"
+      },
+      {
+        "app_package": "com.sf.activity",
+        "app_name": "顺丰速运",
+        "intent_json": "E:/GUI_AGENT架构归因/hard_intents/com.sf.activity.json"
+      },
+      {
+        "app_package": "com.yunda.app",
+        "app_name": "韵达快递",
+        "intent_json": "E:/GUI_AGENT架构归因/hard_intents/com.yunda.app.json"
+      },
+      {
+        "app_package": "com.ss.android.ugc.aweme",
+        "app_name": "抖音",
+        "intent_json": "E:/GUI_AGENT架构归因/hard_intents/com.ss.android.ugc.aweme.json"
+      },
+      {
+        "app_package": "com.smile.gifmaker",
+        "app_name": "快手",
+        "intent_json": "E:/GUI_AGENT架构归因/hard_intents/com.smile.gifmaker.json"
+      },
+      {
+        "app_package": "com.sankuai.movie",
+        "app_name": "猫眼",
+        "intent_json": "E:/GUI_AGENT架构归因/hard_intents/com.sankuai.movie.json"
+      },
+      {
+        "app_package": "cn.damai",
+        "app_name": "大麦",
+        "intent_json": "E:/GUI_AGENT架构归因/hard_intents/cn.damai.json"
+      }
+    ]
+  }
+}
